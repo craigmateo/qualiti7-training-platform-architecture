@@ -11,7 +11,7 @@
 
 The system has been in real-world production use and supports the full lifecycle of training delivery — from marketing and registration to administration, communication, and reporting.
 
-This public repository exists to **document the platform’s architecture, design decisions, and production patterns**, without exposing proprietary source code or sensitive configuration.
+This public repository exists to **document the platform’s architecture, design decisions, and production patterns**, without exposing proprietary source code or configuration.
 
 ---
 

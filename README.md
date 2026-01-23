@@ -100,10 +100,10 @@ It does **not** include:
 ## Why a Public Architecture Repository?
 
 This repository exists to:
-- Demonstrate **real-world system design**, not toy examples
+- Demonstrate **real-world system design**
 - Showcase experience maintaining a **long-running production platform**
 - Document architectural trade-offs and constraints
-- Provide context for private, client-facing or commercial work
+- Provide context for private, client-facing work
 
 ---
 

@@ -15,6 +15,8 @@ This public repository exists to **document the platform’s architecture, desig
 
 ---
 
+<img width="1479" height="3476" alt="qualiti7 com_en" src="https://github.com/user-attachments/assets/14d0ac68-5680-4454-9aa9-543bd9e2fea3" />
+
 ## Platform Capabilities
 
 ### 🌐 Public Site
